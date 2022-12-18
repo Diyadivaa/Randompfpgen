@@ -1,7 +1,7 @@
 import random
 from PIL import Image, ImageDraw
 
-# Create a new image with a size of 128x128 pixels
+# Create a new image with a size of 300x300 pixels
 image = Image.new('RGB', (300, 300))
 
 # Generate a random color for the background
